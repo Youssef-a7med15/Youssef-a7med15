@@ -1,5 +1,5 @@
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](https://yt3.ggpht.com/Nkeq5u9a4efQupgHlPaFv7L6BTF0nBhCtMabpGRJhAwpUTXfcOUdkYnNY-XV6bGCFe8O13yR=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <h2>👋 &nbsp;Hey there! I'm Youssef</h2>
 
