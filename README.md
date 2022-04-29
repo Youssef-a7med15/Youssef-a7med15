@@ -16,7 +16,7 @@
 ✉️ &nbsp;You can shoot me an email at ayoussefa7med1956@gmail.com I'll try to respond as soon as I can.\
  I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> __
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> <br><br>
 
 ### 🛠 &nbsp;Tech Stack
 
