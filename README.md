@@ -17,7 +17,9 @@
  I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-<p width="100%"></p>
+
+<p width="100%"></p> /
+
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
