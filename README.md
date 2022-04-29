@@ -16,24 +16,26 @@
 ✉️ &nbsp;You can shoot me an email at ayoussefa7med1956@gmail.com I'll try to respond as soon as I can.\
  I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> __
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=00599C)&nbsp;
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
-![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
-![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=Nuxt.js)&nbsp;
-![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![xd](https://img.shields.io/badge/-xd-05122A?style=flat&logo=adobe-xd) <br /> <br />
+<p>
+ ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+ ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=00599C)&nbsp;
+ ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript)&nbsp;
+ ![jquery](https://img.shields.io/badge/-jquery-05122A?style=flat&logo=jquery)&nbsp;
+ ![vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+ ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=Nuxt.js)&nbsp;
+ ![firebase](https://img.shields.io/badge/-firebase-05122A?style=flat&logo=firebase)&nbsp;
+ ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+ ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+ ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+ ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+ ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+ ![xd](https://img.shields.io/badge/-xd-05122A?style=flat&logo=adobe-xd) <br /> <br />
+</p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
