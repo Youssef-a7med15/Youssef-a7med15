@@ -7,6 +7,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+<h2>👋 &nbsp;I'm Frontend web developer</h2>
+
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🌱 &nbsp;I’m currently learning and will be learning for the end.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Making videos.\
