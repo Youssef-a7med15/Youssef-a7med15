@@ -41,8 +41,8 @@
 
 <p align="center">
 <a href="https://github.com/Abdelzaher-web">
-  <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdelzaher-web&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdelzaher-web&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Youssef-a7med15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="90%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Youssef-a7med15&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -58,6 +58,6 @@
 </p>
 
 -----
-Credits: [Youssef Ahmed](https://github.com/Abdelzaher-web)
+Credits: [Youssef Ahmed](https://github.com/Youssef-a7med15)
 
 Last Edited on: 29/4/2022
